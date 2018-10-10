@@ -69,7 +69,7 @@ please read this section carefully so that we can work together more effectively
   snippets from the file within documentation.
 
 * **All code must be submitted under the Apache 2.0 license**, as noted in the following **Copyright
-  and License** section.
+  and License** section.//comment added
 
 Copyright and License
 =====================
