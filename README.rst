@@ -53,7 +53,7 @@ please read this section carefully so that we can work together more effectively
 
 * **Use spaces, not tabs, for indentation**. Tabs are variable-length in most editors, but will
   usually render as 8 characters wide in printed documentation. *Always use spaces* to ensure
-  consistent formatting in printed code.
+  consistent formatting in printed code.//comment added 
 
   You can ignore this rule for makefiles, which may *require* the use of tabs, but these are
   typically only used for building examples, and are not included in documentation.
